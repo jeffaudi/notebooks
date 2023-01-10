@@ -9,8 +9,8 @@ I write about Deep Learning for Earth Observation on Medium.
 
 Here are Jupyter notebooks published alongside my articles (some originally on Kaggle)
 
-- How to choose a deep learning architecture to detect aircrafts in satellite imagery?
-- Oil Storage Detection on Airbus Imagery with YOLOX
-- Detecting aircraft on Airbus Pleiades imagery with YOLOv5
+- [Aircraft detection with IceVision and Airbus data](https://github.com/jeffaudi/notebooks/blob/main/Aircraft_Detection_with_IceVision_and_Airbus_data.ipynb)
+- [Oil Storage Detection on Airbus Imagery with YOLOX](https://www.kaggle.com/code/jeffaudi/oil-storage-detection-on-airbus-imagery-with-yolox)
+- [Aircraft detection on Airbus Pleiades imagery with YOLOv5](https://www.kaggle.com/code/jeffaudi/aircraft-detection-with-yolov5)
 
-Please do not hesitate to contact me though my [website](https://faudi.net) or my [company DL4EO](https://dl4eo.com).
+Please do not hesitate to contact me though my [website](https://faudi.net) or my [company](https://dl4eo.com).
